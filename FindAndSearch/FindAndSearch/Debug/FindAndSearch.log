@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\chuck_000\documents\algorithms\findandsearch\findandsearch\source.cpp(132): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\chuck_000\documents\algorithms\findandsearch\findandsearch\source.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\chuck_000\documents\algorithms\findandsearch\findandsearch\source.cpp(224): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  FindAndSearch.vcxproj -> C:\Users\chuck_000\Documents\Algorithms\FindAndSearch\Debug\FindAndSearch.exe
